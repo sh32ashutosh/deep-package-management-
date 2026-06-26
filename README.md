@@ -255,9 +255,7 @@ Through this project, I gained hands-on experience with:
 
 ### Ashutosh Sharma
 
-**AI Engineer | Python Developer | FastAPI Expert | Systems Programmer**
 
-Passionate about building scalable backend systems, AI-powered applications, networking tools, and high-performance software.
 
 ---
 
